@@ -4,7 +4,7 @@
 
 You don't write any code. You describe your home in one small file, `config.js`, and Claude (the free plan is enough) can write that file for you from your existing dashboard YAML.
 
-<!-- LIVE-DEMO -->
+**Try it first:** download this repo and open `www/holo-home/index.html` in your browser. It runs the example home in demo mode, and nothing needs installing.
 
 ![Holo Home overview: three rooms around the glowing core](docs/images/overview.jpg)
 
